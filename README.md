@@ -3,6 +3,11 @@
 **Operational Analytics Project with IFR Advisors for an Aviation Client**
 
 ---
+## 📌 Project Preview
+
+This project analyzes how fleet utilization and revenue interact to drive aviation performance.
+
+---
 
 ## 🧭 Executive Summary
 
@@ -183,6 +188,28 @@ aviation-operational-analytics/
 - Flight Hours by Aircraft  
 - Average Revenue per Trip by Aircraft  
 - Trips vs Average Revenue per Trip (Segmentation Analysis)  
+
+---
+
+## 📊 Visual Examples
+
+### Monthly Revenue
+![Monthly Revenue](outputs/figures/monthly_revenue.png)
+
+---
+
+### Flight Hours by Aircraft
+![Flight Hours](outputs/figures/flight_hours_by_aircraft.png)
+
+---
+
+### Average Revenue per Trip by Aircraft
+![Avg Revenue](outputs/figures/avg_revenue_per_aircraft.png)
+
+---
+
+### Trips vs Revenue Segmentation
+![Scatter](outputs/figures/trips_vs_revenue_scatter.png)
 
 ---
 
